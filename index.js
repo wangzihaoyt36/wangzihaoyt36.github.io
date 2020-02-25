@@ -23,8 +23,8 @@ const demo = async () => {
 
   status('');
 
-  // Make a prediction through the locally hosted almamater.jpg.
-  const catElement = document.getElementById('almamater');
+  // Make a prediction through the locally hosted butler.jpg.
+  const catElement = document.getElementById('butler');
   if (catElement.complete && catElement.naturalHeight !== 0) {
     predict(catElement);
     catElement.style.display = '';
