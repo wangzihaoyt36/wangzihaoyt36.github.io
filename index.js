@@ -1,6 +1,6 @@
 CLASSES = {
-  0: 'Alma Mater',
-  1: 'Bellerophon Taming Pegasus',
+  0: 'Butlerlibrary',
+  1: 'ColumbiaLion',
   2: 'AlmaMater',
 };
 
